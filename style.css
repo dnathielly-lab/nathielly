@@ -41,3 +41,12 @@ main{
     text-align: center;
     font-size: 28px;
 }
+
+
+.passo{
+    display: none;
+}
+
+.tivo{
+    display: block;
+}
